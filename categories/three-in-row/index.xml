@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 в ряд on Цыплёнок Рик</title>
+    <link>http://chickenrick.com/categories/three-in-row/</link>
+    <description>Recent content in 3 в ряд on Цыплёнок Рик</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    
+	<atom:link href="http://chickenrick.com/categories/three-in-row/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

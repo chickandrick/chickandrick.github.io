@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Игры о ферме on Цыплёнок Рик</title>
+    <link>http://chickenrick.com/categories/farm/</link>
+    <description>Recent content in Игры о ферме on Цыплёнок Рик</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Sun, 22 Oct 2017 18:15:00 +0300</lastBuildDate>
+    
+	<atom:link href="http://chickenrick.com/categories/farm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Моя ферма</title>
+      <link>http://chickenrick.com/games/my-farm/</link>
+      <pubDate>Sun, 22 Oct 2017 18:15:00 +0300</pubDate>
+      
+      <guid>http://chickenrick.com/games/my-farm/</guid>
+      <description>Заведи курочек или бурёнку, выращивай овощи и продавай их, ходи на рыбалку, управляй собственным заводом или колхозом, установив игру «Моя ферма» на телефон.
+И стар, и млад увлеченно играет в эту популярную и увлекательную игру, наполняя амбар овощами и фруктами, разводя на скотном дворе откормленных хрюшек и производя разнообразные продукты. «Моя ферма» — это реальная возможность стать виртуальным хозяином и предпринимателем.
+На «раз-два-три»! Уже с первых минут игры на телефоне тебе удастся посадить и собрать урожай.</description>
+    </item>
+    
+  </channel>
+</rss>

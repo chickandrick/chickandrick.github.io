@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Гонки on Цыплёнок Рик</title>
+    <link>http://chickenrick.com/categories/racing/</link>
+    <description>Recent content in Гонки on Цыплёнок Рик</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Sun, 22 Oct 2017 17:15:00 +0300</lastBuildDate>
+    
+	<atom:link href="http://chickenrick.com/categories/racing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hill Climb Racing</title>
+      <link>http://chickenrick.com/games/hill-climb-racing/</link>
+      <pubDate>Sun, 22 Oct 2017 17:15:00 +0300</pubDate>
+      
+      <guid>http://chickenrick.com/games/hill-climb-racing/</guid>
+      <description>Гонщик ты или нет, но эта игра тебе обязательно понравится!
+Играть в Hill climb race одно удовольствие! Если что-то и может смущать — так это только англоязычный интерфейс. А так, загружай игру для андроид или iOS бесплатно без регистрации — и вперед устраивать гонки под горку и вниз!
+Особенности Представь себя крутым гонщиком, который жить не может без дозы адреналина и сразу отправляйся в путь, как только установишь лучшую игру на айфон или любое мобильное устройство.</description>
+    </item>
+    
+  </channel>
+</rss>
