@@ -43,6 +43,11 @@
   </url>
   
   <url>
+    <loc>http://chickenrick.com/games/jewel-legend/</loc>
+    <lastmod>2018-01-14T18:35:00+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://chickenrick.com/games/toon-blast/</loc>
     <lastmod>2018-01-03T19:35:00+03:00</lastmod>
   </url>
@@ -83,11 +88,13 @@
   </url>
   
   <url>
-    <loc>http://chickenrick.com/categories/three-in-row/</loc>
+    <loc>http://chickenrick.com/categories/three-in-a-row/</loc>
+    <lastmod>2017-12-24T08:08:00+03:00</lastmod>
   </url>
   
   <url>
     <loc>http://chickenrick.com/categories/</loc>
+    <lastmod>2017-12-24T08:08:00+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -99,12 +106,6 @@
   
   <url>
     <loc>http://chickenrick.com/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://chickenrick.com/categories/three-in-a-row/</loc>
-    <lastmod>2017-12-24T08:08:00+03:00</lastmod>
     <priority>0</priority>
   </url>
   
