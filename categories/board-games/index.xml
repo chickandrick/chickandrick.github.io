@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Board Games on Цыплёнок Рик</title>
+    <link>http://chickenrick.com/categories/board-games/</link>
+    <description>Recent content in Board Games on Цыплёнок Рик</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Sat, 24 Mar 2018 16:50:00 +0300</lastBuildDate>
+    
+	<atom:link href="http://chickenrick.com/categories/board-games/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Шашки Elite</title>
+      <link>http://chickenrick.com/games/checkers-elite/</link>
+      <pubDate>Sat, 24 Mar 2018 16:50:00 +0300</pubDate>
+      
+      <guid>http://chickenrick.com/games/checkers-elite/</guid>
+      <description>Онлайн-игра «Шашки Elite» предоставляет возможность играть в свободное время и независимо от места, где ты находишся. Интеллектуальная игра на твоем смартфоне – это спорт для мозга, полезный детям и взрослым.
+Настольные шашки онлайн. Возможности Выбрав бесплатную игру «Шашки Elite» на андроид или iOS, ты можешь хоть круглосуточно наслаждаться игровым процессом. Теперь тебе не нужно искать соперника, чтобы сразиться на «поле в клеточку». Среди наиболее популярных:
+ русские классические; международные; американские; слепые; обратные и еще 14 увлекательных игр «Checkers Elite» online.</description>
+    </item>
+    
+  </channel>
+</rss>
